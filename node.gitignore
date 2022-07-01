@@ -1,0 +1,5 @@
+#a simple gitignore file
+
+node-modules/
+buld/
+
