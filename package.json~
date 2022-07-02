@@ -1,0 +1,25 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "Landing SPA with my portfolio,current projects and contact info",
+  "main": "index.js",
+  "scripts": {
+    "test": "rtest"
+  },
+  "keywords": [
+    "portfolio",
+    "contact",
+    "projects"
+  ],
+  "author": "victor angulo",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
