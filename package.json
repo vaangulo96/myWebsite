@@ -4,7 +4,8 @@
   "description": "Landing SPA with my portfolio,current projects and contact info",
   "main": "index.js",
   "scripts": {
-    "test": "rtest"
+    "start":"webpack-dev-server --mode=development --open --hot",
+    "build":"webpack --mode=production"
   },
   "keywords": [
     "portfolio",
@@ -32,7 +33,7 @@
   "babel": {
     "presets": [
       "@babel/preset-env",
-      "@babel/preset-rect"
+      "@babel/preset-react"
     ]
   }
 }
