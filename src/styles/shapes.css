@@ -1,4 +1,16 @@
+
 .rectangle-row{
-	height:25% vh;
-	width:100% vw;
+	height:25vh;
+	width:100vw;
 }
+
+.circle{
+	border: 1px solid;
+	border-radius:75%;
+}
+
+.full-screen{
+	height:160vh;
+	width:100vw;
+}
+

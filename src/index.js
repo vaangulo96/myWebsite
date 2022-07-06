@@ -1,7 +1,8 @@
 import React from "react";
 import {render} from 'react-dom'; 
 import "./styles/shapes.css";
-import Welcome from "./WelcomeBanner/welcomeBanner.js";
+import "./styles/flex.css";
+import Body from "./components/body.jsx";
 
-render(<Welcome/>,document.getElementById('root'));
+render(<Body/>,document.getElementById('root'));
 
