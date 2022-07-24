@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const profile_frame={ 
 	backgroundColor:"ffffff",
 	height:"45vh",

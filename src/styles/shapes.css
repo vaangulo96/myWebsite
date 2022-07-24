@@ -1,7 +1,7 @@
 
 .rectangle-row{
-	height:25vh;
-	width:100vw;
+	height:25%;
+	width:100%;
 }
 
 .circle{
@@ -10,7 +10,7 @@
 }
 
 .full-screen{
-	height:160vh;
+	height:170vh;
 	width:100vw;
 }
 
